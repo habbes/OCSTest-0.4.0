@@ -1,0 +1,1 @@
+Sample application to demonstrate the new updates from [OData Connected Service 0.4.0](https://devblogs.microsoft.com/odata/?p=3766).
